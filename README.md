@@ -2,6 +2,8 @@
 
 A lightweight Windows overlay timer with dual independent countdowns.
 
+Disclaimer: I have no idea if it is legal or not, I personally dont know. It has same functionality as your egg boiling timer. Use at your own risk, and dont sue me in US, I have no insurance there.
+
 ## Features
 
 - **F1** - Start/restart Timer 1 (87 seconds)
