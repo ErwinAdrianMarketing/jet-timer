@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+dist/
+
+# Node modules (from old Electron version)
+node_modules/
+package-lock.json
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
